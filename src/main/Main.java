@@ -24,7 +24,7 @@ public class Main {
 
         System.out.println("--");
 
-        HotDog hd4 = new HotDogBase("HotDogMeuh", "hot dog meuh");
+        HotDog hd4 = new HotDogBase("HotDogBase", "hot dog de base");
         hd4.fabriqueToi();
     }
 }
